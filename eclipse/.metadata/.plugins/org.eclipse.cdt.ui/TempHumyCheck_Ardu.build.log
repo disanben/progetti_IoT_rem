@@ -1,0 +1,11 @@
+14:39:15 **** Incremental Build of configuration Release for project TempHumyCheck_Ardu ****
+make all 
+Building file: ../TempHumyCheck_51.cpp
+Starting C++ compile
+"/home/ben/eclipse/testing-2018-122/eclipse//arduinoPlugin/packages/esp8266/tools/xtensa-lx106-elf-gcc/2.5.0-3-20ed2b9/bin/xtensa-lx106-elf-g++" -D__ets__ -DICACHE_FLASH -U__STRICT_ANSI__ "-I/home/ben/eclipse/testing-2018-122/eclipse//arduinoPlugin/packages/esp8266/hardware/esp8266/2.5.0/tools/sdk/include" "-I/home/ben/eclipse/testing-2018-122/eclipse//arduinoPlugin/packages/esp8266/hardware/esp8266/2.5.0/tools/sdk/lwip2/include" "-I/home/ben/eclipse/testing-2018-122/eclipse//arduinoPlugin/packages/esp8266/hardware/esp8266/2.5.0/tools/sdk/libc/xtensa-lx106-elf/include" "-I/diskBig/lavoro/repoBen/progetti_IoT/eclipse/TempHumyCheck_Ardu/Release/core" -c -Wall -Wextra -Os -g -mlongcalls -mtext-section-literals -fno-rtti -falign-functions=4 -std=c++11 -MMD -ffunction-sections -fdata-sections -fno-exceptions -DF_CPU=80000000L -DLWIP_OPEN_SRC -DTCP_MSS=536 -DLWIP_FEATURES=1 -DLWIP_IPV6=1 -DDEBUG_ESP_PORT=Serial -DDEBUG_ESP_CORE -DARDUINO=10802 -DARDUINO_ESP8266_NODEMCU -DARDUINO_ARCH_ESP8266 -DARDUINO_BOARD="ESP8266_NODEMCU"  -DFLASHMODE_DIO  -DESP8266   -I"/home/ben/eclipse/testing-2018-122/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.5.0/cores/esp8266" -I"/home/ben/eclipse/testing-2018-122/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.5.0/variants/nodemcu" -I"/home/ben/Arduino/libraries/arduino-DHT-master" -I"/home/ben/eclipse/testing-2018-122/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.5.0/libraries/ESP8266WiFi/src" -I"/home/ben/eclipse/testing-2018-122/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.5.0/libraries/SoftwareSerial" -MMD -MP -MF"TempHumyCheck_51.cpp.d" -MT"TempHumyCheck_51.cpp.o" -D__IN_ECLIPSE__=1 -x c++ "../TempHumyCheck_51.cpp"  -o  "TempHumyCheck_51.cpp.o"
+/bin/sh: /home/ben/eclipse/testing-2018-122/eclipse//arduinoPlugin/packages/esp8266/tools/xtensa-lx106-elf-gcc/2.5.0-3-20ed2b9/bin/xtensa-lx106-elf-g++: No such file or directory
+make: *** [subdir.mk:20: TempHumyCheck_51.cpp.o] Error 127
+"make all" terminated with exit code 2. Build might be incomplete.
+
+14:39:15 Build Failed. 1 errors, 0 warnings. (took 70ms)
+

@@ -1,0 +1,11 @@
+08:54:55 **** Incremental Build of configuration Release for project TempoHumyCheck ****
+make all 
+Building file: ../sloeber.ino.cpp
+Starting C++ compile
+"/home/ben/eclipse/testing-2018-122/eclipse//arduinoPlugin/packages/esp8266/tools/xtensa-lx106-elf-gcc/2.5.0-3-20ed2b9/bin/xtensa-lx106-elf-g++" -D__ets__ -DICACHE_FLASH -U__STRICT_ANSI__ "-I/home/ben/eclipse/testing-2018-122/eclipse//arduinoPlugin/packages/esp8266/hardware/esp8266/2.5.0-beta3/tools/sdk/include" "-I/home/ben/eclipse/testing-2018-122/eclipse//arduinoPlugin/packages/esp8266/hardware/esp8266/2.5.0-beta3/tools/sdk/lwip2/include" "-I/home/ben/eclipse/testing-2018-122/eclipse//arduinoPlugin/packages/esp8266/hardware/esp8266/2.5.0-beta3/tools/sdk/libc/xtensa-lx106-elf/include" "-I/diskBig/lavoro/repoBen/progetti_IoT/eclipse/TempoHumyCheck/Release/core" -c -Wall -Wextra -Os -g -mlongcalls -mtext-section-literals -fno-rtti -falign-functions=4 -std=c++11 -MMD -ffunction-sections -fdata-sections -fexceptions -DF_CPU=80000000L -DLWIP_OPEN_SRC -DTCP_MSS=536 -DLWIP_FEATURES=0 -DLWIP_IPV6=0   -DARDUINO=10802 -DARDUINO_ESP8266_PHOENIX_V2 -DARDUINO_ARCH_ESP8266 -DARDUINO_BOARD="ESP8266_PHOENIX_V2"  -DFLASHMODE_DIO  -DESP8266   -I"/home/ben/eclipse/testing-2018-122/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.5.0-beta3/cores/esp8266" -I"/home/ben/eclipse/testing-2018-122/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.5.0-beta3/variants/phoenix_v2" -MMD -MP -MF"sloeber.ino.cpp.d" -MT"sloeber.ino.cpp.o" -D__IN_ECLIPSE__=1 -x c++ "../sloeber.ino.cpp"  -o  "sloeber.ino.cpp.o"
+/bin/sh: /home/ben/eclipse/testing-2018-122/eclipse//arduinoPlugin/packages/esp8266/tools/xtensa-lx106-elf-gcc/2.5.0-3-20ed2b9/bin/xtensa-lx106-elf-g++: No such file or directory
+make: *** [subdir.mk:20: sloeber.ino.cpp.o] Error 127
+"make all" terminated with exit code 2. Build might be incomplete.
+
+08:54:55 Build Failed. 1 errors, 0 warnings. (took 65ms)
+

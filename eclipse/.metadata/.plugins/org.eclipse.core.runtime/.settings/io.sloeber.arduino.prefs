@@ -1,0 +1,17 @@
+Automatically\ import\ libraries=true
+FbStatus=39
+FsStatus=20
+FuStatus=2
+JANTJE.TEMPLATE_USE_DEFAULT=sample
+Last\ Used\ Upload\ port=/dev/ttyUSB0
+Last\ used\ Board=nodemcuv2
+Last\ used\ Boards\ file=/home/ben/eclipse/testing-2018-122/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.0.0/boards.txt
+Last\ used\ Examples=/home/ben/eclipse/testing-2018-122/eclipse/arduinoPlugin/examples/01.Basics/Blink
+Private\ Library\ Path=/home/ben/Arduino/libraries
+Private\ hardware\ Path=/home/ben/Arduino/hardware
+Use\ the\ algoritm\ to\ find\ the\ toolchain\ like\ Arduino\ IDE=true
+add\ pragma\ once\ to\ headers=true
+eclipse.preferences.version=1
+lFsStatus=60
+last\ Used\ upload\ Protocol=Default
+last\ used\ Board\ custom\ option\ selections=baud\=115200\nCpuFrequency\=80\ndbg\=Disabled\nDebug\=Disabled\nDebugLevel\=TLS_MEM\neesz\=4M3M\nexception\=enabled\nFlashErase\=all\nFlashSize\=4M1M\nip\=lm2n\nlvl\=None____\nLwIPVariant\=OpenSource\nResetMethod\=nodemcu\nUploadSpeed\=115200\nUploadTool\=espota\nvt\=flash\nVTable\=flash\nwipe\=all\nxtal\=80

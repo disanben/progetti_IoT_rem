@@ -1,0 +1,8 @@
+Build\ before\ upload\ option=ASK
+Clean\ Serial\ Monitor\ after\ upload=false
+FmStatus=2
+Gui\ entry\ for\ private\ hardware\ paths=/home/ben/Arduino/hardware
+Gui\ entry\ for\ private\ library\ paths=/home/ben/Arduino/libraries
+Hide\ json\ files\ in\ preferences\ platform\ selection\ page=true
+Open\ serial\ connections\ with\ the\ monitor=true
+eclipse.preferences.version=1
